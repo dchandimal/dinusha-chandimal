@@ -2,8 +2,10 @@
 <h3 align="center">An undergraduate from University of Sri Jayewardenepura</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinusha-chandimal&label=Profile%20views&color=0e75b6&style=flat" alt="dinusha-chandimal" /> </p>
+
 ---
-- 🌱 I’m currently learning **Flutter**
+
+- 🌱 I’m currently learning **Mobile Application Development**
 
 - 💬 Ask me about **Flutter, Java**
 
