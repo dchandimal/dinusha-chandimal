@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinusha Chandimal</h1>
 <h3 align="center">An undergraduate from University of Sri Jayewardenepura</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinusha-chandimal&label=Profile%20views&color=0e75b6&style=flat" alt="dinusha-chandimal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dinusha-chandimal&label=Profile%20views&color=0e75b6&style=flat" alt="dinusha-chandimal" /> </p>
 
 ---
 
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dinusha chandimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinusha chandimal" height="30" width="40" /></a>
-<a href="https://fb.com/dinusha chandimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinusha chandimal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Dinusha Chandimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dinusha Chandimal" height="30" width="40" /></a>
+<a href="https://fb.com/Dinusha Chandimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Dinusha Chandimal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
